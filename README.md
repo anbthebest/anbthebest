@@ -1,9 +1,9 @@
 Hi there, I'm Antonio Nicolau, an Informatics, Pentesting, and Web Design expert.
 
-About Me
+##About Me
 I am a highly skilled professional with expertise in various fields of technology, including informatics, pentesting, and web design. With 15 years of experience in these fields, I have a strong understanding of various programming languages, tools, and frameworks. 🐍💻🎨
 
-Skills
+##Skills
 
 Python 🐍
 SQLite3 🗃️
@@ -11,7 +11,7 @@ HTML/CSS 🌐
 SQL 🗃️
 Linux 🐧
 
-Repositories 📚
+##Repositories 📚
 Here are some of the repositories I've created from newest to oldest:
 
 search-engine-crawler: A web crawler and search engine built with Flask and SQLite3. 🔎🕷️
